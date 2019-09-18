@@ -2,7 +2,7 @@
 <html>
 	<head>
 	<meta charset="utf-g">
-	<title> HTML 5 DOC </title>
+	<title> Comp20 HW2: Website </title>
 		<style>
 			Body,html {padding: 0; margin: 0}
 			header h1 {text-align:center; font-family: arial, helvetica; font-size: 30px;}
@@ -18,7 +18,7 @@
 	
 	<body>
 		<header>
-		<h1>Comp20 Website</h1>
+		<h1>Anaerobic Digesters</h1>
 		</header>
 		
 		<nav>
